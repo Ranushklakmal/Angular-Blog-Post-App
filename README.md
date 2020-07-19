@@ -1,4 +1,4 @@
 # Angular-Blog-Post-App
 Assignment 4
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 212)
+![home page ](https://github.com/Ranushklakmal/Angular-Blog-Post-App/blob/master/home.png)
